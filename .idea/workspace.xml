@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41131b33-1866-4c43-9ded-a12d10899cb1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/java/Calculator.java" afterPath="$PROJECT_DIR$/src/com/example/java/Calculator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -526,7 +527,7 @@
       <created>1489179548921</created>
       <option name="number" value="Default" />
       <updated>1489179548921</updated>
-      <workItem from="1502721941714" duration="333000" />
+      <workItem from="1502721941714" duration="484000" />
     </task>
     <task id="LOCAL-00001" summary="Update 1">
       <created>1502722146704</created>
@@ -534,11 +535,17 @@
       <option name="project" value="LOCAL" />
       <updated>1502722146704</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update 2">
+      <created>1502722286424</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1502722286424</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="333000" />
+    <option name="totallyTimeSpent" value="484000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -590,7 +597,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 1" />
+    <MESSAGE value="Update 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -601,6 +609,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
